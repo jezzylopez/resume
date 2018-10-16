@@ -1,0 +1,66 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(lelouchvibritania.jpg) no-repeat;
+	background-size: cover;
+	background-color: #55efc4;
+}
+.box{
+	width: 450px;
+	background: rgba(0, 0, 0, 0, 4);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+	color: black;
+	font-family: 'Century Gothic',sans-serif;
+}
+.box-img{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+.box h1{
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+}
+.box h5{
+	font-size: 25px;
+	letter-spacing: 3px;
+	font-weight: 100;
+}
+.box p{
+	text-align: justify;
+	
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ff7675;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+div{
+	background-color: #b2bec3;
+}
